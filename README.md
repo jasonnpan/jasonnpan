@@ -4,9 +4,7 @@
  
 `uWaterloo CS Student 💻 | Code Tinkerer 🛠 | Avid Learner 💡`
 
-<img src="https://user-images.githubusercontent.com/81478886/211448155-a8c4c20a-e50c-4125-9d46-82bdc8d6fd9a.jpg"
-     alt="waterfall-pixelart-bg"
-     width="600px"/>
+<img src="https://user-images.githubusercontent.com/81478886/211448155-a8c4c20a-e50c-4125-9d46-82bdc8d6fd9a.jpg" alt="waterfall-pixelart-bg" width="600px"/>
 
 <h2 align="left"> <b> 🐻 Fun Facts About Me:</b> </h2>
 
@@ -14,8 +12,10 @@
 • ⭐️ I'm a novice web developer currently learning the MERN stack, starting with React. <br />
 • ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br />
 • ⭐️ When I'm not coding, I enjoy going on walks around the city and seeing where I end up! <br />
-• ⭐️ I like to try out all snacks - let me know if there's something I should taste test! <br />
+• ⭐️ I like to try out all snacks - let me know if there's something I should taste test!
  </p>
+ 
+<br />
 
 <h2 align="left"> <b> 🧰 Languages and (Growing) Toolkit:</b> </h2> 
  
@@ -26,13 +26,13 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ 
+<br />
 
 <h2 align="left"> <b> 🌎 Connect With Me:</b> </h2>
  
 <p align="left">
   <a href="https://www.linkedin.com/in/jasonpann/">
-    <img alt="LinkedIn"
-         title="Add Me on LinkedIn!"
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin-svgrepo-com&logoColor=white"/>
+    <img alt="LinkedIn" title="Add Me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin-svgrepo-com&logoColor=white"/>
   </a>
 </p>
