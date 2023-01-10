@@ -21,5 +21,5 @@
  
 <p align="left">
   <a href="https://www.linkedin.com/in/jasonpann/">
-    <img alt="LinkedIn" title="Add Me on LinkedIn!" src="https://custom-icon-badges.demolab.com/?logo=linked-in&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="LinkedIn" title="Add Me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
 </p>
