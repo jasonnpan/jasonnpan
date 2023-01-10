@@ -14,8 +14,6 @@
 • ⭐️ When I'm not coding, I enjoy going on walks around the city and seeing where I end up! <br />
 • ⭐️ I like to try out all snacks - let me know if there's something I should taste test!
  </p>
- 
-<br />
 
 <h2 align="left"> <b> 🧰 Languages and (Growing) Toolkit:</b> </h2> 
  
