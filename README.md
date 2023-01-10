@@ -8,7 +8,7 @@
      alt="waterfall-pixelart-bg"
      width="600px"/>
 
-<h2 align="left"> <b> 🐵 Fun Facts About Me:</b> </h2>
+<h2 align="left"> <b> 🐻 Fun Facts About Me:</b> </h2>
 
 <p align="left">
 • ⭐️ I'm a novice web developer currently learning the MERN stack, starting with React. <br>
@@ -19,7 +19,7 @@
 
 <h2 align="left"> <b> 🧰 Languages and (Growing) Toolkit:</b> </h2> 
 
-<h2 align="left"> <b> 💬 Connect With Me:</b> </h2>
+<h2 align="left"> <b> 🌎 Connect With Me:</b> </h2>
  
 <p align="left">
   <a href="https://www.linkedin.com/in/jasonpann/">
