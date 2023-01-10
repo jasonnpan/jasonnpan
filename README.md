@@ -2,4 +2,3 @@
  
 `UWaterloo CS Student | Code Tinkerer | Avid Learner`
 
- <h2>
