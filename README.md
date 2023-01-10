@@ -8,7 +8,7 @@
      alt="waterfall-pixelart-bg"
      width="600px"/>
 
-<h2 align="left"> <b> 🤖 Fun Facts About Me:</b> </h2>
+<h2 align="left"> <b> 🐵 Fun Facts About Me:</b> </h2>
 
 <p align="left">
 • ⭐️ I'm a novice web developer currently learning the MERN stack, starting with React. <br>
@@ -17,7 +17,7 @@
 • ⭐️ I like to try out all snacks - let me know if there's something I should taste test! <br>
  </p>
 
-<h2 align="left"> <b> 👨‍💻 Languages and (Growing) Toolkit:</b> </h2> 
+<h2 align="left"> <b> 🧰 Languages and (Growing) Toolkit:</b> </h2> 
 
 <h2 align="left"> <b> 💬 Connect With Me:</b> </h2>
  
