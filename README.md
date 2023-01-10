@@ -4,9 +4,7 @@
  
 `uWaterloo CS Student 💻 | Code Tinkerer 🛠 | Avid Learner 💡`
 
-<div align="left">
- 
-<b>A few fun facts about myself:<b>
+ <div align="left"><b>A few fun facts about myself:<b></div>
  
 <p align="left">
 ⭐️ I'm a novice web developer currently learning the MERN stack <br>
