@@ -2,7 +2,7 @@
  
 <div align="center">
  
- `UWaterloo CS Student | Code Tinkerer | Avid Learner`
+`UWaterloo CS Student ⭐️ | Code Tinkerer 🛠 | Avid Learner 💡`
 
 
 
