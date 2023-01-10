@@ -6,7 +6,7 @@
 
 <div align="left">
  
-**A few fun facts about myself:**
+<b>A few fun facts about myself:<b>
  
 <p align="left">
 ⭐️ I'm a novice web developer currently learning the MERN stack <br>
