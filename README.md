@@ -11,13 +11,21 @@
 <h2 align="left"> <b> 🐻 Fun Facts About Me:</b> </h2>
 
 <p align="left">
-• ⭐️ I'm a novice web developer currently learning the MERN stack, starting with React. <br>
-• ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br>
-• ⭐️ When I'm not coding, I enjoy going on walks around the city and seeing where I end up! <br>
-• ⭐️ I like to try out all snacks - let me know if there's something I should taste test! <br>
+• ⭐️ I'm a novice web developer currently learning the MERN stack, starting with React. <br />
+• ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br />
+• ⭐️ When I'm not coding, I enjoy going on walks around the city and seeing where I end up! <br />
+• ⭐️ I like to try out all snacks - let me know if there's something I should taste test! <br />
  </p>
 
 <h2 align="left"> <b> 🧰 Languages and (Growing) Toolkit:</b> </h2> 
+ 
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <h2 align="left"> <b> 🌎 Connect With Me:</b> </h2>
  
