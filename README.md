@@ -8,7 +8,7 @@
      alt="waterfall-pixelart-bg"
      width="600px"/>
 
-<div align="left"> <b>A few fun facts about myself:</b> </div>
+<h2 align="left"> <b>A few fun facts about myself:</b> </h2>
 
 <p align="left">
 ⭐️ I'm a novice web developer currently learning the MERN stack <br>
