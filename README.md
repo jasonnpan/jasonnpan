@@ -3,10 +3,10 @@
 <div align="center">
  
 `uWaterloo CS Student 💻 | Code Tinkerer 🛠 | Avid Learner 💡`
+ 
+![waterfall-pixelart-bg](https://user-images.githubusercontent.com/81478886/211448155-a8c4c20a-e50c-4125-9d46-82bdc8d6fd9a.jpg)
 
 <div align="left"> <b>A few fun facts about myself:</b> </div>
-
- ![waterfall-pixelart-bg](https://user-images.githubusercontent.com/81478886/211448155-a8c4c20a-e50c-4125-9d46-82bdc8d6fd9a.jpg)
 
 <p align="left">
 ⭐️ I'm a novice web developer currently learning the MERN stack <br>
