@@ -5,7 +5,7 @@
 `uWaterloo CS Student 💻 | Code Tinkerer 🛠 | Avid Learner 💡`
 
 
-<h2 align="left"> A little bit about myself: </h2>
+<div align="left"> A little bit about myself: </div>
 <p align="left">
 ⭐️ I'm a novice web developer currently learning the MERN stack <br>
 ⭐️ My goal is to make functional, interactive, and visually appealing websites <br>
