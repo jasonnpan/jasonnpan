@@ -1,3 +1,3 @@
-<h1 align="center">⭐️ Hello there! My name is Jason. ⭐️<h1>
+<h1 align="center">⭐️ Hello there! I'm Jason Pan. ⭐️<h1>
 
-**'uWaterloo CS Student | Tinkerer | Lifelong Learner'**
+**`uWaterloo CS student | Web Tinkerer | Avid Learner`**
