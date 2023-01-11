@@ -34,6 +34,6 @@
     <img alt="LinkedIn" title="Add Me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin-svgrepo-com&logoColor=white"/>
   </a>
   <a href="mailto: j7pan@uwaterloo.ca">
-    <img alt="Email" title="Email Me!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" title="Email Me!" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
