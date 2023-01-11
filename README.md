@@ -6,13 +6,13 @@
 
 <img src="https://user-images.githubusercontent.com/81478886/211448155-a8c4c20a-e50c-4125-9d46-82bdc8d6fd9a.jpg" alt="waterfall-pixelart-bg" width="600px"/>
 
-<h2 align="left"> <b> 🐻 Fun Facts About Me:</b> </h2>
+<h2 align="left"> <b> 🐶 Fun Facts About Me:</b> </h2>
 
 <p align="left">
 • ⭐️ I'm a novice web developer currently learning the MERN stack, starting with React. <br />
 • ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br />
-• ⭐️ When I'm not coding, I enjoy going on walks around the city to see where I end up! <br />
-• ⭐️ I like to try out all snacks - let me know if there's something I should taste test!
+• ⭐️ When I'm not coding, I enjoy going on walks around the city (currently in Waterloo) to see where I end up! <br />
+• ⭐️ I like to try out new snacks (the weirder the better) - let me know if there's something I should taste test!
  </p>
 
 <h2 align="left"> <b> 🧰 Languages and (Growing) Toolkit:</b> </h2> 
