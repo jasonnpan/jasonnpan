@@ -4,7 +4,7 @@
  
 `uWaterloo CS Student 💻 | Code Tinkerer 🛠 | Avid Learner 💡`
 
-<img src="https://user-images.githubusercontent.com/81478886/211448155-a8c4c20a-e50c-4125-9d46-82bdc8d6fd9a.jpg" alt="waterfall-pixelart-bg" width="600px"/>
+<img src="./waterfall.gif" alt="waterfall-pixelart-bg" width="600px"/>
 
 <h2 align="left"> <b> Fun Facts About Me:</b> </h2>
 
