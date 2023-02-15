@@ -11,8 +11,8 @@
 <p align="left">
 - 💻 I'm a novice web developer currently learning the MERN stack, starting with React. <br />
 - ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br />
-- 🌱 When I'm not coding, I enjoy going on walks around the city to see where I end up! <br />
-- 🍱 I like to try new foods (the weirder the better) - let me know if there's something I should taste test!
+- 🌱 When I'm not coding, I enjoy going on walks around my neighbourhood! <br />
+- 🍱 I like to try new foods (the weirder the better)!
  </p>
 
 <h2 align="left"> <b> Toolkit:</b> </h2> 
