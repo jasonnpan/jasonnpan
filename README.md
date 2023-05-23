@@ -9,10 +9,10 @@
 <h2 align="left"> <b> Fun Facts About Me:</b> </h2>
 
 <p align="left">
-- 💻 I'm a novice web developer currently learning the MERN stack, starting with React. <br />
+- 💻 I'm a novice web developer currently learning the MERN stack. <br />
 - ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br />
 - 🌱 When I'm not coding, I enjoy going on walks around my neighbourhood! <br />
-- 🍱 I like to try new foods (the weirder the better)!
+- 🍱 I like to try new foods!
  </p>
 
 <h2 align="left"> <b> My Toolkit:</b> </h2> 
