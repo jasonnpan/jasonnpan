@@ -9,8 +9,8 @@
 <h2 align="left"> <b> Fun Facts About Me:</b> </h2>
 
 <p align="left">
-- 💻 I'm a web developer currently learning the MERN stack. <br />
-- ⭐️ My goal is to make functional, interactive, and visually appealing websites. <br />
+- 💻 I'm a fullstack developer currently learning React & GoLang. <br />
+- ⭐️ My goal is to make functional, interactive, and visually appealing software. <br />
 - 🌱 When I'm not coding, I enjoy going on walks, painting, and scrolling reels :) <br />
  </p>
 
