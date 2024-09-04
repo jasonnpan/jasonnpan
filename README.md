@@ -6,7 +6,7 @@
 
 <img src="./waterfall.gif" alt="waterfall-pixelart-bg" width="400px"/>
 
-<h3 align="left"> <b> About Me:</b> </3>
+<h3 align="left"> <b> About Me:</b> </h3>
 
 - 💻 I'm a software developer with interests in mobile, fullstack, and backend roles.
 - 🥞 Tech Stack:
