@@ -8,12 +8,11 @@
 
 <h3 align="left"> <b> About Me:</b> </3>
 
-<span align="left">
-- 💻 I'm a software developer with interests in mobile, fullstack, and backend roles. <br />
+- 💻 I'm a software developer with interests in mobile, fullstack, and backend roles.
 - 🥞 Tech Stack:
-  - **Languages:** C++, TypeScript/JavaScript, Python, Go, Kotlin
-  - **Tools:** React/React Native, Firebase, Redux, Android Studio, XCode
-- 👨‍💻 Currently exploring project ideas in productivity tech! <br />
-- 🌱 When I'm not coding, I enjoy playing volleyball and reading :) <br />
-- 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> <br />
-</span>
+  - Languages: C++, TypeScript/JavaScript, Python, Go, Kotlin
+  - Tools: React/React Native, Firebase, Redux, Android Studio, XCode
+- 👨‍💻 Currently exploring project ideas in productivity tech!
+- 🌱 When I'm not coding, I enjoy playing volleyball and reading :)
+- 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca>
+
