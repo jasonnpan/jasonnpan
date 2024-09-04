@@ -6,10 +6,14 @@
 
 <img src="./waterfall.gif" alt="waterfall-pixelart-bg" width="400px"/>
 
-<h2 align="left"> <b> About Me:</b> </h2>
+<h3 align="left"> <b> About Me:</b> </3>
 
-<p align="left">
-• 💻 I'm a software developer with interests in mobile. <br />
-• ⭐️ My goal is to make functional, interactive, and visually appealing software. <br />
-• 🌱 When I'm not coding, I enjoy going on walks, painting, and scrolling reels :) <br />
- </p>
+<span align="left">
+- 💻 I'm a software developer with interests in mobile, fullstack, and backend roles. <br />
+- 🥞 Tech Stack:
+  - **Languages:** C++, TypeScript/JavaScript, Python, Go, Kotlin
+  - **Tools:** React/React Native, Firebase, Redux, Android Studio, XCode
+- 👨‍💻 Currently exploring project ideas in productivity tech! <br />
+- 🌱 When I'm not coding, I enjoy playing volleyball and reading :) <br />
+- 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> <br />
+</span>
