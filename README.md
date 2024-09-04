@@ -4,36 +4,12 @@
  
 `uWaterloo CS Student 💻 | Code Tinkerer 🛠 | Avid Learner 💡`
 
-<img src="./waterfall.gif" alt="waterfall-pixelart-bg" width="600px"/>
+<img src="./waterfall.gif" alt="waterfall-pixelart-bg" width="400px"/>
 
-<h2 align="left"> <b> Fun Facts About Me:</b> </h2>
+<h2 align="left"> <b> About Me:</b> </h2>
 
 <p align="left">
 - 💻 I'm a fullstack developer currently learning React & GoLang. <br />
 - ⭐️ My goal is to make functional, interactive, and visually appealing software. <br />
 - 🌱 When I'm not coding, I enjoy going on walks, painting, and scrolling reels :) <br />
  </p>
-
-<h2 align="left"> <b> My Toolkit:</b> </h2> 
-
-<div align="left">
- 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<h2 align="left"> <b> Connect With Me:</b> </h2>
- 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jasonpann/">
-    <img alt="LinkedIn" title="Add Me on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin-svgrepo-com&logoColor=white"/>
-  </a>
-  <a href="mailto: j7pan@uwaterloo.ca">
-    <img alt="Email" title="Email Me!" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
