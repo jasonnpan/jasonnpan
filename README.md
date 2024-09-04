@@ -12,8 +12,8 @@
 
 - 💻 I'm a software developer with interests in mobile, fullstack, and backend roles.
 - 🥞 Tech Stack:
-  - Languages: C++, TypeScript/JavaScript, Python, Go, Kotlin
-  - Tools: React/React Native, Firebase, Redux, Android Studio, XCode
+  - **Languages:** C++, TypeScript/JavaScript, Python, Go, Kotlin
+  - **Tools:** React/React Native, Firebase, Redux, Android Studio, XCode
 - 👨‍💻 Currently exploring project ideas in productivity tech!
 - 🌱 When I'm not coding, I enjoy playing volleyball and reading :)
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca>
