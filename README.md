@@ -9,7 +9,8 @@
 
 <h3 align="left"> <b> About Me:</b> </h3>
 
-- 👨‍💻 Currently a Software Engineer Intern @ Microart; Prev @ dandelion, NoTox & Trinity Robotics
+- 👨‍💻 Currently a Software Engineer Intern @ Microart
+- 🌼 Previously interned @ dandelion, NoTox, Trinity Robotics
 - 💻 I'm interested in mobile, fullstack, and backend roles!
 - 🥞 Tech Stack:
   - **Languages:** C++, TypeScript/JavaScript, Python, Go, Kotlin
