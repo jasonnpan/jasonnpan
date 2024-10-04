@@ -12,7 +12,7 @@
 - 👨‍💻 Current SWE Intern @ Microart Services
 - 🌼 Previously @ Dandelion Networks, NoTox, Trinity Robotics
 - 🥞 Tech Stack:
-  - **Languages:** C++, TypeScript/JavaScript, Python, Go, Swift, Obj-
+  - **Languages:** C++, TypeScript/JavaScript, Python, Go, Swift, Obj-C
   - **Tools:** React/React Native, Firebase, Redux, Android Studio, XCode
 - 🌱 When I'm not coding, I enjoy playing volleyball and reading!
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> ~ [/in/jasonpann/](https://www.linkedin.com/in/jasonpann)
