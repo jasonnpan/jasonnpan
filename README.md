@@ -13,6 +13,6 @@
 - 🌼 Previously @ Dandelion Networks, NoTox, Trinity Robotics
 - 🥞 Tech Stack:
   - **Languages:** C++, TypeScript/JavaScript, Python, Go, Swift, Obj-C, SQL
-  - **Tools:** React/React Native, Firebase, Redux, Android Studio, XCode
+  - **Tools:** React/React Native, Firebase, Redux, Supabase, MongoDB
 - 🌱 When I'm not coding, I enjoy playing volleyball and reading!
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> ~ [/in/jasonpann/](https://www.linkedin.com/in/jasonpann)
