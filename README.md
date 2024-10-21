@@ -14,5 +14,5 @@
 - 🥞 Tech Stack:
   - **Languages:** C++, TypeScript/JavaScript, Python, Go, Swift, Obj-C, SQL
   - **Tools:** React/React Native, Firebase, Redux, Supabase, MongoDB
-- 🌱 When I'm not coding, I enjoy playing volleyball and reading!
+- 🌱 When I'm not coding, I enjoy playing volleyball, gaming, and reading!
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> ~ [/in/jasonpann/](https://www.linkedin.com/in/jasonpann)
