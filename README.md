@@ -8,7 +8,6 @@
 </div>
 
 <h3 align="left"> <b> About Me:</b> </h3>
-
 - 👨‍💻 Current SWE Intern @ Microart Services
 - 🌼 Previously @ Dandelion Networks, NoTox, Trinity Robotics
 - 🥞 Tech Stack:
@@ -16,3 +15,4 @@
   - **Tools:** React/React Native, Firebase, Redux, Supabase, MongoDB
 - 🌱 When I'm not coding, I enjoy playing volleyball, gaming, and reading!
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> ~ [/in/jasonpann/](https://www.linkedin.com/in/jasonpann)
+  
