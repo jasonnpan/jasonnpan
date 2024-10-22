@@ -8,6 +8,7 @@
 </div>
 
 <h3 align="left"> <b> About Me:</b> </h3>
+
 - 👨‍💻 Current SWE Intern @ Microart Services
 - 🌼 Previously @ Dandelion Networks, NoTox, Trinity Robotics
 - 🥞 Tech Stack:
