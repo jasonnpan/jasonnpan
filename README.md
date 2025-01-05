@@ -11,8 +11,9 @@
 
 - 🌼 Previous SWE Intern @ Microart Services, Dandelion Networks, NoTox, Trinity Robotics
 - 🥞 Tech Stack:
-  - **Languages:** C++, JavaScript, TypeScript, Python, Go, SQL
-  - **Tools:** React/React Native, Firebase, Redux, Supabase, MongoDB
-- 🌱 When I'm not coding, I enjoy playing volleyball, gaming, and reading!
+  - **Languages:** C++, JavaScript, TypeScript, Go, Python, Java, SQL
+  - **Frameworks:** React/React Native, Node.js, Express.js, Next.js
+  - **Technologies:** HTML/CSS, Firebase, Tailwind, MongoDB/NoSQL, Supabase/PostgreSQL, Redux
+- 🌱 When I'm not coding, I enjoy playing volleyball, gaming, and cooking!
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> ~ [/in/jasonpann/](https://www.linkedin.com/in/jasonpann)
   
