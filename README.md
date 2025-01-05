@@ -13,7 +13,7 @@
 - 🥞 Tech Stack:
   - **Languages:** C++, JavaScript, TypeScript, Go, Python, Java, SQL
   - **Frameworks:** React/React Native, Node.js, Express.js, Next.js
-  - **Technologies:** HTML/CSS, Firebase, Tailwind, MongoDB/NoSQL, Supabase/PostgreSQL, Redux
+  - **Technologies:** HTML/CSS, Firebase, Tailwind, MongoDB, Supabase, NoSQL, PostgreSQL, Redux
 - 🌱 When I'm not coding, I enjoy playing volleyball, gaming, and cooking!
 - 🚀 Let's Connect! ~ <j7pan@uwaterloo.ca> ~ [/in/jasonpann/](https://www.linkedin.com/in/jasonpann)
   
