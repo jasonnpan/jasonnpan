@@ -9,9 +9,9 @@
 
 <h3 align="left"> <b> About Me:</b> </h3>
 
-- 🌼 Previous SWE Intern @ Microart Services, Dandelion Networks, NoTox, Trinity Robotics
+- 🌼 Previous SWE Intern @ Faire, Microart Services, Dandelion Networks, NoTox, Trinity Robotics
 - 🥞 Tech Stack:
-  - **Languages:** C++, JavaScript, TypeScript, Go, Python, Java, SQL
+  - **Languages:** C++, JavaScript, TypeScript, Kotlin, Swift, Go, Python, Java, SQL
   - **Frameworks:** React/React Native, Node.js, Express.js, Next.js
   - **Technologies:** HTML/CSS, Firebase, Tailwind, MongoDB, Supabase, NoSQL, PostgreSQL, Redux
 - 🌱 When I'm not coding, I enjoy playing volleyball, gaming, and cooking!
